@@ -1,0 +1,6 @@
+c:\users\geniusgameemployee\documents\visual studio 2013\Projects\ciscohackathonfinal\ciscohackathonfinal\bin\ciscohackathonfinal.dll.config
+c:\users\geniusgameemployee\documents\visual studio 2013\Projects\ciscohackathonfinal\ciscohackathonfinal\bin\ciscohackathonfinal.dll
+c:\users\geniusgameemployee\documents\visual studio 2013\Projects\ciscohackathonfinal\ciscohackathonfinal\bin\ciscohackathonfinal.pdb
+c:\users\geniusgameemployee\documents\visual studio 2013\Projects\ciscohackathonfinal\ciscohackathonfinal\obj\Debug\ciscohackathonfinal.csprojResolveAssemblyReference.cache
+c:\users\geniusgameemployee\documents\visual studio 2013\Projects\ciscohackathonfinal\ciscohackathonfinal\obj\Debug\ciscohackathonfinal.dll
+c:\users\geniusgameemployee\documents\visual studio 2013\Projects\ciscohackathonfinal\ciscohackathonfinal\obj\Debug\ciscohackathonfinal.pdb
